@@ -1,0 +1,62 @@
+﻿@page
+@model Spring_Systems.Pages.Employee.NewEmployeeModel
+@{
+}
+<div class="row">
+    <div class="col-12">
+        <form method="post" asp-page-handler="Post">
+            <div class="row mb-3">
+                <div class="col-4">
+                    <label asp-for="Employee.CompanyId" class="form-label">Select Company <span class="text-danger">*</span></label>
+                    <select asp-for="Employee.CompanyId" asp-items="@Model.CompaniesList" class="form-select">
+                        <option value="0" selected>Select Company</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <div class="col-4">
+                    <label asp-for="Employee.FirstName" class="form-label">First Name <span class="text-danger">*</span></label>
+                    <input type="text" asp-for="Employee.FirstName" class="form-control" />
+                    <span asp-validation-for="Employee.FirstName" class="text-danger"></span>
+                </div>
+
+                <div class="col-4">
+                    <label asp-for="Employee.MiddleName" class="form-label">Middle Name</label>
+                    <input type="text" asp-for="Employee.MiddleName" class="form-control" />
+                    <span asp-validation-for="Employee.MiddleName" class="text-danger"></span>
+                </div>
+
+                <div class="col-4">
+                    <label asp-for="Employee.LastName" class="form-label">Last Name <span class="text-danger">*</span></label>
+                    <input type="text" asp-for="Employee.LastName" class="form-control" />
+                    <span asp-validation-for="Employee.LastName" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <div class="col-4">
+                    <label asp-for="Employee.Address" class="form-label">Address <sapn class="text-danger">*</sapn></label>
+                    <input type="text" asp-for="Employee.Address" class="form-control" />
+                    <span asp-validation-for="Employee.Address" class="text-danger"></span>
+                </div>
+
+                <div class="col-4">
+                    <label asp-for="Employee.Email" class="form-label">Email <span class="text-danger">*</span></label>
+                    <input type="email" asp-for="Employee.Email" class="form-control" />
+                    <span asp-validation-for="Employee.Email" class="text-danger"></span>
+                </div>
+
+                <div class="col-4">
+                    <label asp-for="Employee.ContactNo" class="form-label">Contact No <span class="text-danger">*</span></label>
+                    <input type="tel" asp-for="Employee.ContactNo" class="form-control" />
+                    <span asp-validation-for="Employee.ContactNo" class="text-danger"></span>
+                </div>
+            </div>
+
+            <input type="submit" class="btn btn-primary me-2" name="Save" />
+            <a asp-page="/Employee/Index" class="btn btn-danger">Cancel</a>
+        </form>
+
+    </div>
+</div>

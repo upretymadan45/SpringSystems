@@ -1,0 +1,12 @@
+C:\Users\MSquare\source\repos\Spring Systems\Spring.Domain\bin\Debug\net6.0\Spring.Domain.deps.json
+C:\Users\MSquare\source\repos\Spring Systems\Spring.Domain\bin\Debug\net6.0\Spring.Domain.dll
+C:\Users\MSquare\source\repos\Spring Systems\Spring.Domain\bin\Debug\net6.0\Spring.Domain.pdb
+C:\Users\MSquare\source\repos\Spring Systems\Spring.Domain\obj\Debug\net6.0\Spring.Domain.csproj.AssemblyReference.cache
+C:\Users\MSquare\source\repos\Spring Systems\Spring.Domain\obj\Debug\net6.0\Spring.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSquare\source\repos\Spring Systems\Spring.Domain\obj\Debug\net6.0\Spring.Domain.AssemblyInfoInputs.cache
+C:\Users\MSquare\source\repos\Spring Systems\Spring.Domain\obj\Debug\net6.0\Spring.Domain.AssemblyInfo.cs
+C:\Users\MSquare\source\repos\Spring Systems\Spring.Domain\obj\Debug\net6.0\Spring.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MSquare\source\repos\Spring Systems\Spring.Domain\obj\Debug\net6.0\Spring.Domain.dll
+C:\Users\MSquare\source\repos\Spring Systems\Spring.Domain\obj\Debug\net6.0\refint\Spring.Domain.dll
+C:\Users\MSquare\source\repos\Spring Systems\Spring.Domain\obj\Debug\net6.0\Spring.Domain.pdb
+C:\Users\MSquare\source\repos\Spring Systems\Spring.Domain\obj\Debug\net6.0\ref\Spring.Domain.dll

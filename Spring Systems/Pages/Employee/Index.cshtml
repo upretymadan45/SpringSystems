@@ -1,0 +1,41 @@
+﻿@page "Employees"
+@model Spring_Systems.Pages.Employee.IndexModel
+@{
+}
+
+<div class="row">
+    <div class="col-12">
+        <div class="row mb-3">
+            <div class="col-6">
+                <h3>Employee Database (@Model.Employees.Count() employees)</h3>
+            </div>
+            <div class="col-6">
+                <a asp-page="/Employee/NewEmployee" class="btn btn-primary float-end">Add New</a>
+            </div>
+        </div>
+
+        <table class="table table-striped table-sm table-hover table-bordered">
+            <thead class="bg-secondary text-white">
+                <tr>
+                    <th>Full Name</th>
+                    <th>Address</th>
+                    <th>Email</th>
+                    <th>Contact No</th>
+                    <th>Company</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var employee in Model.Employees)
+                {
+                    <tr>
+                        <td>@employee.GetFullName()</td>
+                        <td>@employee.Address</td>
+                        <td>@employee.Email</td>
+                        <td>@employee.ContactNo</td>
+                        <td>@employee.Company.Name</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

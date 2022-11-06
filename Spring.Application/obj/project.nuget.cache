@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "q4R5Em/eW0ZoYYlXWuSyIop8/Zzu6bYyWljrh8yRkzxWx3UQw16nBnj/FuFp384224TWmc0baIaj4WDOWV/GVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MSquare\\source\\repos\\Spring Systems\\Spring.Application\\Spring.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSquare\\.nuget\\packages\\fluentvalidation\\11.2.1\\fluentvalidation.11.2.1.nupkg.sha512",
+    "C:\\Users\\MSquare\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
+    "C:\\Users\\MSquare\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.1\\fluentvalidation.dependencyinjectionextensions.11.2.1.nupkg.sha512",
+    "C:\\Users\\MSquare\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\MSquare\source\repos\Spring Systems\Spring.Infrastructure\bin\Debug\net6.0\Spring.Infrastructure.deps.json
+C:\Users\MSquare\source\repos\Spring Systems\Spring.Infrastructure\bin\Debug\net6.0\Spring.Infrastructure.dll
+C:\Users\MSquare\source\repos\Spring Systems\Spring.Infrastructure\bin\Debug\net6.0\Spring.Infrastructure.pdb
+C:\Users\MSquare\source\repos\Spring Systems\Spring.Infrastructure\bin\Debug\net6.0\Spring.Application.dll
+C:\Users\MSquare\source\repos\Spring Systems\Spring.Infrastructure\bin\Debug\net6.0\Spring.Domain.dll
+C:\Users\MSquare\source\repos\Spring Systems\Spring.Infrastructure\bin\Debug\net6.0\Spring.Application.pdb
+C:\Users\MSquare\source\repos\Spring Systems\Spring.Infrastructure\bin\Debug\net6.0\Spring.Domain.pdb
+C:\Users\MSquare\source\repos\Spring Systems\Spring.Infrastructure\obj\Debug\net6.0\Spring.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\MSquare\source\repos\Spring Systems\Spring.Infrastructure\obj\Debug\net6.0\Spring.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSquare\source\repos\Spring Systems\Spring.Infrastructure\obj\Debug\net6.0\Spring.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\MSquare\source\repos\Spring Systems\Spring.Infrastructure\obj\Debug\net6.0\Spring.Infrastructure.AssemblyInfo.cs
+C:\Users\MSquare\source\repos\Spring Systems\Spring.Infrastructure\obj\Debug\net6.0\Spring.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\MSquare\source\repos\Spring Systems\Spring.Infrastructure\obj\Debug\net6.0\Spring.Infrastructure.csproj.CopyComplete
+C:\Users\MSquare\source\repos\Spring Systems\Spring.Infrastructure\obj\Debug\net6.0\Spring.Infrastructure.dll
+C:\Users\MSquare\source\repos\Spring Systems\Spring.Infrastructure\obj\Debug\net6.0\refint\Spring.Infrastructure.dll
+C:\Users\MSquare\source\repos\Spring Systems\Spring.Infrastructure\obj\Debug\net6.0\Spring.Infrastructure.pdb
+C:\Users\MSquare\source\repos\Spring Systems\Spring.Infrastructure\obj\Debug\net6.0\ref\Spring.Infrastructure.dll
